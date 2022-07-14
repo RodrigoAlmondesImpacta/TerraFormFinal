@@ -1,3 +1,4 @@
+
 variable "instance_type" {
   type = map(any)
   default = {
